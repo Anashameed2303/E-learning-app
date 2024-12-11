@@ -1,0 +1,18 @@
+int i;
+float marks;
+char gender;
+for(i=0,i<49,i++)
+read marks
+read gender
+if (gender=male)
+  if (marks>50)
+  print "you passed, good boy!!!"
+  else
+  print "you failed, bad boy!!!"
+else
+if (marks>50)
+  print "you passed, good girl!!!"
+  else
+  print "you failed, bad girl!!!"
+end nested if
+end loop
