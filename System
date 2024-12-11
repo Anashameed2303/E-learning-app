@@ -5,12 +5,12 @@ for(i=0,i<99,i++)
 read marks
 read gender
 if (gender=male)
-  if (marks>50)
+  if (marks>60)
   print "you passed, good boy!!!"
   else
   print "you failed, bad boy!!!"
 else
-if (marks>50)
+if (marks>60)
   print "you passed, good girl!!!"
   else
   print "you failed, bad girl!!!"
