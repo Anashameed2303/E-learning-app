@@ -1,7 +1,7 @@
 int i;
 float marks;
 char gender;
-for(i=0,i<49,i++)
+for(i=0,i<99,i++)
 read marks
 read gender
 if (gender=male)
